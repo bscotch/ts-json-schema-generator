@@ -4,6 +4,8 @@ dist/
 node_modules/
 !auto.config.ts
 /.idea/
+ts-json-schema-generator-*.tgz
+NOTES.md
 
 # local config for auto
 .env
